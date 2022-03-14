@@ -1,0 +1,17 @@
+1 Create function
+2 Create condition while
+	3 Enter path of the folder you want to search
+	4 Create condition about existance of the folder
+	5 Didsplay, that folder exists
+	6 Finish while condition
+7 Enter regular expression "Hello Kris"
+8 Make a list ot entered path of the folder
+9 Make a for loop for list folder
+	10 Make a condition if file is ended with '.txt'
+		10a Print path with the file txt
+		11 Open file txt (use os.path,join)
+		12 create variable with the text of the opened file
+		13 start the function (user_searxch,message) 
+	
+
+	
